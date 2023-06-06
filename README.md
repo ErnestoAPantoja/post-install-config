@@ -9,8 +9,6 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Internet Information Services (IIS)
-- PHP
 - osTicket 
 
 <h2>Operating Systems Used </h2>
